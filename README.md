@@ -46,25 +46,25 @@ Here’s a preview of the 1200+ icons available in this package:
 ![Astronomy](assets/images/AstronomyAstronomy.jpg)
 
 ### Building & Infrastructure
-![Building & Infrastructure](assets/images/Building, InfrastructureBuilding, Infrastructure.jpg)
+![Building & Infrastructure](assets/images/Building.jpg)
 
 ### Business & Statistics
-![Business & Statistics](assets/images/Business, StatisticBusiness, Statistic.jpg)
+![Business & Statistics](assets/images/Business.jpg)
 
 ### Call
 ![Call](assets/images/CallCall.jpg)
 
 ### Design & Tools
-![Design & Tools](assets/images/Design, ToolsDesign, Tools.jpg)
+![Design & Tools](assets/images/Design.jpg)
 
 ### Electronics & Devices
-![Electronics & Devices](assets/images/Electronic, DevicesElectronic, Devices.jpg)
+![Electronics & Devices](assets/images/Electronic.jpg)
 
 ### Essential UI
-![Essential UI](assets/images/Essentional, UIEssentional, UI.jpg)
+![Essential UI](assets/images/Essentional.jpg)
 
 ### Faces, Emotions, & Stickers
-![Faces, Emotions, & Stickers](assets/images/Faces, Emotions, StickersFaces, Emotions, Stickers.jpg)
+![Faces, Emotions, & Stickers](assets/images/Faces.jpg)
 
 ### Files
 ![Files](assets/images/FilesFiles.jpg)
@@ -73,10 +73,10 @@ Here’s a preview of the 1200+ icons available in this package:
 ![Folders](assets/images/FoldersFolders.jpg)
 
 ### Food & Kitchen
-![Food & Kitchen](assets/images/Food, KitchenFood, Kitchen.jpg)
+![Food & Kitchen](assets/images/Food.jpg)
 
 ### Home & Furniture
-![Home & Furniture](assets/images/Home, FurnitureHome, Furniture.jpg)
+![Home & Furniture](assets/images/Home.jpg)
 
 ### Like
 ![Like](assets/images/LikeLike.jpg)
@@ -85,22 +85,22 @@ Here’s a preview of the 1200+ icons available in this package:
 ![List](assets/images/ListList.jpg)
 
 ### Map & Location
-![Map & Location](assets/images/Map & LocationMap & Location.jpg)
+![Map & Location](assets/images/Map.jpg)
 
 ### Medicine
 ![Medicine](assets/images/MedicineMedicine.jpg)
 
 ### Messages & Conversation
-![Messages & Conversation](assets/images/Messages, ConversationMessages, Conversation.jpg)
+![Messages & Conversation](assets/images/Messages.jpg)
 
 ### Money
 ![Money](assets/images/MoneyMoney.jpg)
 
 ### Nature & Travel
-![Nature & Travel](assets/images/Nature, TravelNature, Travel.jpg)
+![Nature & Travel](assets/images/Nature.jpg)
 
 ### Network & Connection
-![Network & Connection](assets/images/Network, ConnectionNetwork, Connection.jpg)
+![Network & Connection](assets/images/Network.jpg)
 
 ### Notes
 ![Notes](assets/images/NotesNotes.jpg)
@@ -118,28 +118,28 @@ Here’s a preview of the 1200+ icons available in this package:
 ![Security](assets/images/SecuritySecurity.jpg)
 
 ### Settings & Fine Tuning
-![Settings & Fine Tuning](assets/images/Settings, Fine TuningSettings, Fine Tuning.jpg)
+![Settings & Fine Tuning](assets/images/Settings.jpg)
 
 ### Shopping & Ecommerce
-![Shopping & Ecommerce](assets/images/Shopping, EcommerceShopping, Ecommerce.jpg)
+![Shopping & Ecommerce](assets/images/Shopping.jpg)
 
 ### Sports
 ![Sports](assets/images/SportsSports.jpg)
 
 ### Text Formatting
-![Text Formatting](assets/images/Text FormattingText Formatting.jpg)
+![Text Formatting](assets/images/Text_Formatting.jpg)
 
 ### Time
 ![Time](assets/images/TimeTime.jpg)
 
 ### Transport, Parts, & Service
-![Transport, Parts, & Service](assets/images/Transport, Parts, ServiceTransport, Parts, Service.jpg)
+![Transport, Parts, & Service](assets/images/Transport.jpg)
 
 ### Users
 ![Users](assets/images/UsersUsers.jpg)
 
 ### Video, Audio, & Sound
-![Video, Audio, & Sound](assets/images/Video, Audio, SoundVideo, Audio, Sound.jpg)
+![Video, Audio, & Sound](assets/images/Video.jpg)
 
 ### Weather
 ![Weather](assets/images/WeatherWeather.jpg)
