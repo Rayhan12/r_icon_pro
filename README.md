@@ -1,9 +1,9 @@
 # r_icon_pro
 
-A Flutter package offering **500+ rounded icons** with a sleek and modern design. Perfect for apps that need a clean and minimalistic icon set with a rounded style.
+A Flutter package offering **1200+ rounded icons** with a sleek and modern design. Perfect for apps that need a clean and minimalistic icon set with a rounded style.
 
 ## Features
-- **500+ icons**: A large collection of icons for various app use cases.
+- **1200+ icons**: A large collection of icons for various app use cases.
 - **Rounded style**: Every icon is designed with smooth, rounded corners.
 - **Easy to use**: Simple integration into any Flutter project.
 - **Custom Font**: The icons are packaged as a custom font, making them easily scalable and efficient to use.
@@ -14,7 +14,7 @@ Add the `r_icon_pro` package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  r_icon_pro: ^0.0.1
+  r_icon_pro: ^1.0.1
   ```
 
 

@@ -48,7 +48,7 @@ class _RIconProExampleHomeState extends State<RIconProExampleHome> {
     const Icon(RIcon.Figma),
     const Icon(RIcon.File_Check),
     const Icon(RIcon.Paperclip_Rounded),
-    const Icon(RIcon.K),
+    const Icon(RIcon.Four_K),
     const Icon(RIcon.Pen_New_Round),
     const Icon(RIcon.Code_File),
     const Icon(RIcon.Gallery_Send),
@@ -56,6 +56,8 @@ class _RIconProExampleHomeState extends State<RIconProExampleHome> {
     const Icon(RIcon.Camera),
     const Icon(RIcon.XXX),
     const Icon(RIcon.Body),
+    const Icon(RIcon.Bell),
+    const Icon(RIcon.Bell_Off),
   ];
 
   @override
