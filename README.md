@@ -32,6 +32,48 @@ const Icon(RIcon.Balloon);
 
 ```
 
+## 📑 Icon Categories
+
+Navigate through the icon categories by clicking the links below:
+
+1. 🎯 [Arrows](#arrows)
+2. 🔄 [Action Arrows](#action-arrows)
+3. 🌌 [Astronomy](#astronomy)
+4. 🏗️ [Building & Infrastructure](#building--infrastructure)
+5. 📊 [Business & Statistics](#business--statistics)
+6. 📞 [Call](#call)
+7. 🎨 [Design & Tools](#design--tools)
+8. 📱 [Electronics & Devices](#electronics--devices)
+9. 🧩 [Essential UI](#essential-ui)
+10. 😄 [Faces, Emotions, & Stickers](#faces-emotions--stickers)
+11. 📄 [Files](#files)
+12. 📂 [Folders](#folders)
+13. 🍴 [Food & Kitchen](#food--kitchen)
+14. 🛋️ [Home & Furniture](#home--furniture)
+15. 👍 [Like](#like)
+16. 📝 [List](#list)
+17. 🗺️ [Map & Location](#map--location)
+18. 💊 [Medicine](#medicine)
+19. 💬 [Messages & Conversation](#messages--conversation)
+20. 💵 [Money](#money)
+21. 🏞️ [Nature & Travel](#nature--travel)
+22. 🌐 [Network & Connection](#network--connection)
+23. 🗒️ [Notes](#notes)
+24. 🔔 [Notifications](#notifications)
+25. 🎓 [School](#school)
+26. 🔍 [Search](#search)
+27. 🛡️ [Security](#security)
+28. ⚙️ [Settings & Fine Tuning](#settings--fine-tuning)
+29. 🛒 [Shopping & Ecommerce](#shopping--ecommerce)
+30. ⚽ [Sports](#sports)
+31. ✍️ [Text Formatting](#text-formatting)
+32. ⏰ [Time](#time)
+33. 🚗 [Transport, Parts, & Service](#transport-parts--service)
+34. 👤 [Users](#users)
+35. 🎵 [Video, Audio, & Sound](#video-audio--sound)
+36. 🌦️ [Weather](#weather)
+
+
 ## Icon Gallery
 
 Here’s a preview of the 1200+ icons available in this package:
