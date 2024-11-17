@@ -1,7 +1,8 @@
 name: r_icon_pro
 description: "A flutter rounded icon pack with 500+ icons"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Rayhan12/r_icon_pro.git
+repository: https://github.com/Rayhan12/r_icon_pro.git
 
 environment:
   sdk: ^3.5.4
