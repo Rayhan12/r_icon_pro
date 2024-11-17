@@ -40,7 +40,7 @@ Here’s a preview of the 1200+ icons available in this package:
 ![Arrows](assets/images/ArrowsArrows.jpg)
 
 ### Action Arrows
-![Action Arrows](assets/images/Arrows ActionArrows Action.jpg)
+![Action Arrows](assets/images/Arrows.jpg)
 
 ### Astronomy
 ![Astronomy](assets/images/AstronomyAstronomy.jpg)
