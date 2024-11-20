@@ -7,7 +7,10 @@ class RIcon {
   static const String _fontFamily = 'RIcon';
   static const String _fontPackage = 'r_icon_pro';
 
+  /// Chat_Square_Arrow icon
   static const material.IconData Chat_Square_Arrow = material.IconData(0xe900, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData chatSquareArrow = material.IconData(0xe900, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  
   static const material.IconData Chat_Square_Call = material.IconData(0xe901, fontFamily: _fontFamily, fontPackage: _fontPackage);
   static const material.IconData Chat_Square_Check = material.IconData(0xe902, fontFamily: _fontFamily, fontPackage: _fontPackage);
   static const material.IconData Chat_Square_Code = material.IconData(0xe903, fontFamily: _fontFamily, fontPackage: _fontPackage);
