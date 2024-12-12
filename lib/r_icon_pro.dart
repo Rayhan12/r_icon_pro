@@ -1072,278 +1072,1090 @@ class RIcon {
   static const material.IconData Close_Square = material.IconData(0xea03, fontFamily: _fontFamily, fontPackage: _fontPackage);
   static const material.IconData closeSquare = material.IconData(0xea03, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-
-
-
+  /// Closet_ icon
   static const material.IconData Closet_ = material.IconData(0xea04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData closet = material.IconData(0xea04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Closet_2 icon
   static const material.IconData Closet_2 = material.IconData(0xea05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData closet2 = material.IconData(0xea05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Bolt_Minimalistic icon
   static const material.IconData Cloud_Bolt_Minimalistic = material.IconData(0xea06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudBoltMinimalistic = material.IconData(0xea06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Bolt icon
   static const material.IconData Cloud_Bolt = material.IconData(0xea07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudBolt = material.IconData(0xea07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Check icon
   static const material.IconData Cloud_Check = material.IconData(0xea08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudCheck = material.IconData(0xea08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Download icon
   static const material.IconData Cloud_Download = material.IconData(0xea09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudDownload = material.IconData(0xea09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+
+
+
+  /// Cloud_File icon
   static const material.IconData Cloud_File = material.IconData(0xea0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudFile = material.IconData(0xea0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Minus icon
   static const material.IconData Cloud_Minus = material.IconData(0xea0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudMinus = material.IconData(0xea0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Plus icon
   static const material.IconData Cloud_Plus = material.IconData(0xea0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudPlus = material.IconData(0xea0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Rain icon
   static const material.IconData Cloud_Rain = material.IconData(0xea0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudRain = material.IconData(0xea0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Snowfall_Minimalistic icon
   static const material.IconData Cloud_Snowfall_Minimalistic = material.IconData(0xea0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudSnowfallMinimalistic = material.IconData(0xea0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Snowfall icon
   static const material.IconData Cloud_Snowfall = material.IconData(0xea0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudSnowfall = material.IconData(0xea0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Storage icon
   static const material.IconData Cloud_Storage = material.IconData(0xea10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudStorage = material.IconData(0xea10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Storm icon
   static const material.IconData Cloud_Storm = material.IconData(0xea11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudStorm = material.IconData(0xea11, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Sun_2 icon
   static const material.IconData Cloud_Sun_2 = material.IconData(0xea12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudSun2 = material.IconData(0xea12, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Sun icon
   static const material.IconData Cloud_Sun = material.IconData(0xea13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudSun = material.IconData(0xea13, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+
+
+  /// Cloud_Upload icon
   static const material.IconData Cloud_Upload = material.IconData(0xea14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudUpload = material.IconData(0xea14, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Waterdrop icon
   static const material.IconData Cloud_Waterdrop = material.IconData(0xea15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudWaterdrop = material.IconData(0xea15, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud_Waterdrops icon
   static const material.IconData Cloud_Waterdrops = material.IconData(0xea16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudWaterdrops = material.IconData(0xea16, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloud icon
   static const material.IconData Cloud = material.IconData(0xea17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloud = material.IconData(0xea17, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Clouds_ icon
   static const material.IconData Clouds_ = material.IconData(0xea18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData clouds = material.IconData(0xea18, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cloudy_Moon icon
   static const material.IconData Cloudy_Moon = material.IconData(0xea19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloudyMoon = material.IconData(0xea19, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Clound_Cross icon
   static const material.IconData Clound_Cross = material.IconData(0xea1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cloundCross = material.IconData(0xea1a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code_2 icon
   static const material.IconData Code_2 = material.IconData(0xea1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData code2 = material.IconData(0xea1b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code_Circle icon
   static const material.IconData Code_Circle = material.IconData(0xea1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData codeCircle = material.IconData(0xea1c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code_File icon
   static const material.IconData Code_File = material.IconData(0xea1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData codeFile = material.IconData(0xea1d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code_Scan icon
   static const material.IconData Code_Scan = material.IconData(0xea1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData codeScan = material.IconData(0xea1e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code_Square icon
   static const material.IconData Code_Square = material.IconData(0xea1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData codeSquare = material.IconData(0xea1f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Code icon
   static const material.IconData Code = material.IconData(0xea20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData code = material.IconData(0xea20, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Colour_Tuneing icon
   static const material.IconData Colour_Tuneing = material.IconData(0xea21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData colourTuneing = material.IconData(0xea21, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Command icon
   static const material.IconData Command = material.IconData(0xea22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData command = material.IconData(0xea22, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Compass_Big icon
   static const material.IconData Compass_Big = material.IconData(0xea23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData compassBig = material.IconData(0xea23, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Compass_Square icon
   static const material.IconData Compass_Square = material.IconData(0xea24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData compassSquare = material.IconData(0xea24, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Compass icon
   static const material.IconData Compass = material.IconData(0xea25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData compass = material.IconData(0xea25, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Condicioner_ icon
   static const material.IconData Condicioner_ = material.IconData(0xea26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData condicioner = material.IconData(0xea26, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Condicioner_2 icon
   static const material.IconData Condicioner_2 = material.IconData(0xea27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData condicioner2 = material.IconData(0xea27, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Confetti_Minimalistic icon
   static const material.IconData Confetti_Minimalistic = material.IconData(0xea28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData confettiMinimalistic = material.IconData(0xea28, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Confetti icon
   static const material.IconData Confetti = material.IconData(0xea29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData confetti = material.IconData(0xea29, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Confounded_Circle icon
   static const material.IconData Confounded_Circle = material.IconData(0xea2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData confoundedCircle = material.IconData(0xea2a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Confounded_Square icon
   static const material.IconData Confounded_Square = material.IconData(0xea2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData confoundedSquare = material.IconData(0xea2b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Copy icon
   static const material.IconData Copy = material.IconData(0xea2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData copy = material.IconData(0xea2c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Copyright icon
   static const material.IconData Copyright = material.IconData(0xea2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData copyright = material.IconData(0xea2d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Corkscrew icon
   static const material.IconData Corkscrew = material.IconData(0xea2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData corkscrew = material.IconData(0xea2e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cosmetic icon
   static const material.IconData Cosmetic = material.IconData(0xea2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cosmetic = material.IconData(0xea2f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Course_Down icon
   static const material.IconData Course_Down = material.IconData(0xea30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData courseDown = material.IconData(0xea30, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Course_Up icon
   static const material.IconData Course_Up = material.IconData(0xea31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData courseUp = material.IconData(0xea31, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// CPU_Bolt icon
   static const material.IconData CPU_Bolt = material.IconData(0xea32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cpuBolt = material.IconData(0xea32, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// CPU icon
   static const material.IconData CPU = material.IconData(0xea33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cpu = material.IconData(0xea33, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Creative_Commons icon
   static const material.IconData Creative_Commons = material.IconData(0xea34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData creativeCommons = material.IconData(0xea34, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crop_Minimalistic icon
   static const material.IconData Crop_Minimalistic = material.IconData(0xea35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cropMinimalistic = material.IconData(0xea35, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crop icon
   static const material.IconData Crop = material.IconData(0xea36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData crop = material.IconData(0xea36, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crown_ icon
   static const material.IconData Crown_ = material.IconData(0xea37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData crown = material.IconData(0xea37, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crown_Line icon
   static const material.IconData Crown_Line = material.IconData(0xea38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData crownLine = material.IconData(0xea38, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crown_Minimalistic icon
   static const material.IconData Crown_Minimalistic = material.IconData(0xea39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData crownMinimalistic = material.IconData(0xea39, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Crown_Star icon
   static const material.IconData Crown_Star = material.IconData(0xea3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData crownStar = material.IconData(0xea3a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_copy icon
   static const material.IconData Cup_copy = material.IconData(0xea3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupCopy = material.IconData(0xea3b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_First icon
   static const material.IconData Cup_First = material.IconData(0xea3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupFirst = material.IconData(0xea3c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_Hot icon
   static const material.IconData Cup_Hot = material.IconData(0xea3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupHot = material.IconData(0xea3d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_Music icon
   static const material.IconData Cup_Music = material.IconData(0xea3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupMusic = material.IconData(0xea3e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_Paper icon
   static const material.IconData Cup_Paper = material.IconData(0xea3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupPaper = material.IconData(0xea3f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup_Star icon
   static const material.IconData Cup_Star = material.IconData(0xea40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cupStar = material.IconData(0xea40, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cup icon
   static const material.IconData Cup = material.IconData(0xea41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cup = material.IconData(0xea41, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cursor_Square icon
   static const material.IconData Cursor_Square = material.IconData(0xea42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cursorSquare = material.IconData(0xea42, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Cursor icon
   static const material.IconData Cursor = material.IconData(0xea43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData cursor = material.IconData(0xea43, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Danger_Circle icon
   static const material.IconData Danger_Circle = material.IconData(0xea44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dangerCircle = material.IconData(0xea44, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Danger_Square icon
   static const material.IconData Danger_Square = material.IconData(0xea45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dangerSquare = material.IconData(0xea45, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Danger_Triangle icon
   static const material.IconData Danger_Triangle = material.IconData(0xea46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dangerTriangle = material.IconData(0xea46, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Danger icon
   static const material.IconData Danger = material.IconData(0xea47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData danger = material.IconData(0xea47, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Database icon
   static const material.IconData Database = material.IconData(0xea48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData database = material.IconData(0xea48, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Delivery icon
   static const material.IconData Delivery = material.IconData(0xea49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData delivery = material.IconData(0xea49, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Devices icon
   static const material.IconData Devices = material.IconData(0xea4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData devices = material.IconData(0xea4a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Diagram_Down icon
   static const material.IconData Diagram_Down = material.IconData(0xea4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData diagramDown = material.IconData(0xea4b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Diagram_Up icon
   static const material.IconData Diagram_Up = material.IconData(0xea4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData diagramUp = material.IconData(0xea4c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dialog icon
   static const material.IconData Dialog = material.IconData(0xea4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dialog = material.IconData(0xea4d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Diploma_Verified icon
   static const material.IconData Diploma_Verified = material.IconData(0xea4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData diplomaVerified = material.IconData(0xea4e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Diploma icon
   static const material.IconData Diploma = material.IconData(0xea4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData diploma = material.IconData(0xea4f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Diskette icon
   static const material.IconData Diskette = material.IconData(0xea50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData diskette = material.IconData(0xea50, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dislike icon
   static const material.IconData Dislike = material.IconData(0xea51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dislike = material.IconData(0xea51, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Display icon
   static const material.IconData Display = material.IconData(0xea52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData display = material.IconData(0xea52, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// DNA icon
   static const material.IconData DNA = material.IconData(0xea53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dna = material.IconData(0xea53, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Document_Add icon
   static const material.IconData Document_Add = material.IconData(0xea54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documentAdd = material.IconData(0xea54, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Document_copy icon
   static const material.IconData Document_copy = material.IconData(0xea55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documentCopy = material.IconData(0xea55, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Document_Medicine icon
   static const material.IconData Document_Medicine = material.IconData(0xea56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documentMedicine = material.IconData(0xea56, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Document_Text icon
   static const material.IconData Document_Text = material.IconData(0xea57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documentText = material.IconData(0xea57, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Document icon
   static const material.IconData Document = material.IconData(0xea58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData document = material.IconData(0xea58, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Documents_Minimalistic icon
   static const material.IconData Documents_Minimalistic = material.IconData(0xea59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documentsMinimalistic = material.IconData(0xea59, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Documents icon
   static const material.IconData Documents = material.IconData(0xea5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData documents = material.IconData(0xea5a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dollar_Minimalistic icon
   static const material.IconData Dollar_Minimalistic = material.IconData(0xea5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dollarMinimalistic = material.IconData(0xea5b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dollar icon
   static const material.IconData Dollar = material.IconData(0xea5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dollar = material.IconData(0xea5c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Donut_Bitten icon
   static const material.IconData Donut_Bitten = material.IconData(0xea5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData donutBitten = material.IconData(0xea5d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Donut icon
   static const material.IconData Donut = material.IconData(0xea5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData donut = material.IconData(0xea5e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Double_Alt_Arrow_Down icon
   static const material.IconData Double_Alt_Arrow_Down = material.IconData(0xea5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData doubleAltArrowDown = material.IconData(0xea5f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Double_Alt_Arrow_Left icon
   static const material.IconData Double_Alt_Arrow_Left = material.IconData(0xea60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData doubleAltArrowLeft = material.IconData(0xea60, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Double_Alt_Arrow_Right icon
   static const material.IconData Double_Alt_Arrow_Right = material.IconData(0xea61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData doubleAltArrowRight = material.IconData(0xea61, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Double_Alt_Arrow_Up icon
   static const material.IconData Double_Alt_Arrow_Up = material.IconData(0xea62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData doubleAltArrowUp = material.IconData(0xea62, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Download_Minimalistic icon
   static const material.IconData Download_Minimalistic = material.IconData(0xea63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData downloadMinimalistic = material.IconData(0xea63, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Download_Square icon
   static const material.IconData Download_Square = material.IconData(0xea64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData downloadSquare = material.IconData(0xea64, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Download_Twice_Square icon
   static const material.IconData Download_Twice_Square = material.IconData(0xea65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData downloadTwiceSquare = material.IconData(0xea65, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Download icon
   static const material.IconData Download = material.IconData(0xea66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData download = material.IconData(0xea66, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dropper_2 icon
   static const material.IconData Dropper_2 = material.IconData(0xea67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dropper2 = material.IconData(0xea67, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dropper_3 icon
   static const material.IconData Dropper_3 = material.IconData(0xea68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dropper3 = material.IconData(0xea68, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dropper_Minimalistic_2 icon
   static const material.IconData Dropper_Minimalistic_2 = material.IconData(0xea69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dropperMinimalistic2 = material.IconData(0xea69, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dropper_Minimalistic icon
   static const material.IconData Dropper_Minimalistic = material.IconData(0xea6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dropperMinimalistic = material.IconData(0xea6a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dropper icon
   static const material.IconData Dropper = material.IconData(0xea6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dropper = material.IconData(0xea6b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbell_Large_Minimalistic icon
   static const material.IconData Dumbbell_Large_Minimalistic = material.IconData(0xea6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbellLargeMinimalistic = material.IconData(0xea6c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbell_Large icon
   static const material.IconData Dumbbell_Large = material.IconData(0xea6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbellLarge = material.IconData(0xea6d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbell_Small icon
   static const material.IconData Dumbbell_Small = material.IconData(0xea6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbellSmall = material.IconData(0xea6e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbell icon
   static const material.IconData Dumbbell = material.IconData(0xea6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbell = material.IconData(0xea6f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbells_2 icon
   static const material.IconData Dumbbells_2 = material.IconData(0xea70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbells2 = material.IconData(0xea70, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Dumbbells icon
   static const material.IconData Dumbbells = material.IconData(0xea71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData dumbbells = material.IconData(0xea71, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Earth icon
   static const material.IconData Earth = material.IconData(0xea72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData earth = material.IconData(0xea72, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Electric_Refueling icon
   static const material.IconData Electric_Refueling = material.IconData(0xea73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData electricRefueling = material.IconData(0xea73, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Emoji_Funny_Circle icon
   static const material.IconData Emoji_Funny_Circle = material.IconData(0xea74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData emojiFunnyCircle = material.IconData(0xea74, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Emoji_Funny_Square icon
   static const material.IconData Emoji_Funny_Square = material.IconData(0xea75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData emojiFunnySquare = material.IconData(0xea75, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// End_Call_ icon
   static const material.IconData End_Call_ = material.IconData(0xea76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData endCall = material.IconData(0xea76, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+
+  /// End_Call_Rounded icon
   static const material.IconData End_Call_Rounded = material.IconData(0xea77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData endCallRounded = material.IconData(0xea77, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eraser_Circle icon
   static const material.IconData Eraser_Circle = material.IconData(0xea78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eraserCircle = material.IconData(0xea78, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eraser_Square icon
   static const material.IconData Eraser_Square = material.IconData(0xea79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eraserSquare = material.IconData(0xea79, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eraser icon
   static const material.IconData Eraser = material.IconData(0xea7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eraser = material.IconData(0xea7a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Euro icon
   static const material.IconData Euro = material.IconData(0xea7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData euro = material.IconData(0xea7b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Exit icon
   static const material.IconData Exit = material.IconData(0xea7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData exit = material.IconData(0xea7c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Explicit icon
   static const material.IconData Explicit = material.IconData(0xea7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData explicit = material.IconData(0xea7d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Export icon
   static const material.IconData Export = material.IconData(0xea7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData export = material.IconData(0xea7e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Expressionless_Circle icon
   static const material.IconData Expressionless_Circle = material.IconData(0xea7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData expressionlessCircle = material.IconData(0xea7f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Expressionless_Square icon
   static const material.IconData Expressionless_Square = material.IconData(0xea80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData expressionlessSquare = material.IconData(0xea80, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eye_Closed icon
   static const material.IconData Eye_Closed = material.IconData(0xea81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eyeClosed = material.IconData(0xea81, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eye_Scan icon
   static const material.IconData Eye_Scan = material.IconData(0xea82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eyeScan = material.IconData(0xea82, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Eye icon
   static const material.IconData Eye = material.IconData(0xea83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData eye = material.IconData(0xea83, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Face_Scan_Circle icon
   static const material.IconData Face_Scan_Circle = material.IconData(0xea84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData faceScanCircle = material.IconData(0xea84, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Face_Scan_Square icon
   static const material.IconData Face_Scan_Square = material.IconData(0xea85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData faceScanSquare = material.IconData(0xea85, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Facemask_Circle icon
   static const material.IconData Facemask_Circle = material.IconData(0xea86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData facemaskCircle = material.IconData(0xea86, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Facemask_Square icon
   static const material.IconData Facemask_Square = material.IconData(0xea87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData facemaskSquare = material.IconData(0xea87, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Feed icon
   static const material.IconData Feed = material.IconData(0xea88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData feed = material.IconData(0xea88, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Ferris_Wheel icon
   static const material.IconData Ferris_Wheel = material.IconData(0xea89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData ferrisWheel = material.IconData(0xea89, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Figma_File icon
   static const material.IconData Figma_File = material.IconData(0xea8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData figmaFile = material.IconData(0xea8a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Figma icon
   static const material.IconData Figma = material.IconData(0xea8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData figma = material.IconData(0xea8b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Check icon
   static const material.IconData File_Check = material.IconData(0xea8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileCheck = material.IconData(0xea8c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Corrupted icon
   static const material.IconData File_Corrupted = material.IconData(0xea8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileCorrupted = material.IconData(0xea8d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Download icon
   static const material.IconData File_Download = material.IconData(0xea8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileDownload = material.IconData(0xea8e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Favourite icon
   static const material.IconData File_Favourite = material.IconData(0xea8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileFavourite = material.IconData(0xea8f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Left icon
   static const material.IconData File_Left = material.IconData(0xea90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileLeft = material.IconData(0xea90, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Remove icon
   static const material.IconData File_Remove = material.IconData(0xea91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileRemove = material.IconData(0xea91, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Right icon
   static const material.IconData File_Right = material.IconData(0xea92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileRight = material.IconData(0xea92, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Send icon
   static const material.IconData File_Send = material.IconData(0xea93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileSend = material.IconData(0xea93, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Smile__ icon
   static const material.IconData File_Smile__ = material.IconData(0xea94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileSmile = material.IconData(0xea94, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File_Text icon
   static const material.IconData File_Text = material.IconData(0xea95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fileText = material.IconData(0xea95, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// File icon
   static const material.IconData File = material.IconData(0xea96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData file = material.IconData(0xea96, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Filter icon
   static const material.IconData Filter = material.IconData(0xea97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData filter = material.IconData(0xea97, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Filters icon
   static const material.IconData Filters = material.IconData(0xea98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData filters = material.IconData(0xea98, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fire_Minimalistic icon
   static const material.IconData Fire_Minimalistic = material.IconData(0xea99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fireMinimalistic = material.IconData(0xea99, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fire_Square icon
   static const material.IconData Fire_Square = material.IconData(0xea9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fireSquare = material.IconData(0xea9a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fire icon
   static const material.IconData Fire = material.IconData(0xea9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fire = material.IconData(0xea9b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flag_2 icon
   static const material.IconData Flag_2 = material.IconData(0xea9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flag2 = material.IconData(0xea9c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flag icon
   static const material.IconData Flag = material.IconData(0xea9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flag = material.IconData(0xea9d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flame icon
   static const material.IconData Flame = material.IconData(0xea9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flame = material.IconData(0xea9e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flash_Drive icon
   static const material.IconData Flash_Drive = material.IconData(0xea9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flashDrive = material.IconData(0xea9f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flashlight_On icon
   static const material.IconData Flashlight_On = material.IconData(0xeaa0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flashlightOn = material.IconData(0xeaa0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flashlight icon
   static const material.IconData Flashlight = material.IconData(0xeaa1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flashlight = material.IconData(0xeaa1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flip_Horizontal icon
   static const material.IconData Flip_Horizontal = material.IconData(0xeaa2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flipHorizontal = material.IconData(0xeaa2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Flip_Vertical icon
   static const material.IconData Flip_Vertical = material.IconData(0xeaa3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData flipVertical = material.IconData(0xeaa3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Floor_Lamp_Minimalistic icon
   static const material.IconData Floor_Lamp_Minimalistic = material.IconData(0xeaa4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData floorLampMinimalistic = material.IconData(0xeaa4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Floor_Lamp icon
   static const material.IconData Floor_Lamp = material.IconData(0xeaa5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData floorLamp = material.IconData(0xeaa5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fog icon
   static const material.IconData Fog = material.IconData(0xeaa6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fog = material.IconData(0xeaa6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_2 icon
   static const material.IconData Folder_2 = material.IconData(0xeaa7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folder2 = material.IconData(0xeaa7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Check icon
   static const material.IconData Folder_Check = material.IconData(0xeaa8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderCheck = material.IconData(0xeaa8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Cloud icon
   static const material.IconData Folder_Cloud = material.IconData(0xeaa9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderCloud = material.IconData(0xeaa9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Error icon
   static const material.IconData Folder_Error = material.IconData(0xeaaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderError = material.IconData(0xeaaa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Favourite_Bookmark icon
   static const material.IconData Folder_Favourite_Bookmark = material.IconData(0xeaab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderFavouriteBookmark = material.IconData(0xeaab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Favourite_Star icon
   static const material.IconData Folder_Favourite_Star = material.IconData(0xeaac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderFavouriteStar = material.IconData(0xeaac, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Open icon
   static const material.IconData Folder_Open = material.IconData(0xeaad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderOpen = material.IconData(0xeaad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Path_Connect icon
   static const material.IconData Folder_Path_Connect = material.IconData(0xeaae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderPathConnect = material.IconData(0xeaae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_Security icon
   static const material.IconData Folder_Security = material.IconData(0xeaaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderSecurity = material.IconData(0xeaaf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder_With_Files icon
   static const material.IconData Folder_With_Files = material.IconData(0xeab0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folderWithFiles = material.IconData(0xeab0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Folder icon
   static const material.IconData Folder = material.IconData(0xeab1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData folder = material.IconData(0xeab1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Football icon
   static const material.IconData Football = material.IconData(0xeab2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData football = material.IconData(0xeab2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Forbidden_Circle icon
   static const material.IconData Forbidden_Circle = material.IconData(0xeab3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData forbiddenCircle = material.IconData(0xeab3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Forbidden icon
   static const material.IconData Forbidden = material.IconData(0xeab4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData forbidden = material.IconData(0xeab4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Forward_2 icon
   static const material.IconData Forward_2 = material.IconData(0xeab5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData forward2 = material.IconData(0xeab5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Forward_copy icon
   static const material.IconData Forward_copy = material.IconData(0xeab6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData forwardCopy = material.IconData(0xeab6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Forward icon
   static const material.IconData Forward = material.IconData(0xeab7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData forward = material.IconData(0xeab7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fridge icon
   static const material.IconData Fridge = material.IconData(0xeab8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fridge = material.IconData(0xeab8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Fuel icon
   static const material.IconData Fuel = material.IconData(0xeab9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fuel = material.IconData(0xeab9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Full_Screen_Circle icon
   static const material.IconData Full_Screen_Circle = material.IconData(0xeaba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fullScreenCircle = material.IconData(0xeaba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Full_Screen_Square icon
   static const material.IconData Full_Screen_Square = material.IconData(0xeabb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fullScreenSquare = material.IconData(0xeabb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Full_Screen icon
   static const material.IconData Full_Screen = material.IconData(0xeabc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData fullScreen = material.IconData(0xeabc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Add icon
   static const material.IconData Gallery_Add = material.IconData(0xeabd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryAdd = material.IconData(0xeabd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Check icon
   static const material.IconData Gallery_Check = material.IconData(0xeabe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryCheck = material.IconData(0xeabe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Circle icon
   static const material.IconData Gallery_Circle = material.IconData(0xeabf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryCircle = material.IconData(0xeabf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Download icon
   static const material.IconData Gallery_Download = material.IconData(0xeac0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryDownload = material.IconData(0xeac0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Edit icon
   static const material.IconData Gallery_Edit = material.IconData(0xeac1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryEdit = material.IconData(0xeac1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Favourite icon
   static const material.IconData Gallery_Favourite = material.IconData(0xeac2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryFavourite = material.IconData(0xeac2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Minimalistic icon
   static const material.IconData Gallery_Minimalistic = material.IconData(0xeac3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryMinimalistic = material.IconData(0xeac3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Remove icon
   static const material.IconData Gallery_Remove = material.IconData(0xeac4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryRemove = material.IconData(0xeac4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Round icon
   static const material.IconData Gallery_Round = material.IconData(0xeac5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryRound = material.IconData(0xeac5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Send icon
   static const material.IconData Gallery_Send = material.IconData(0xeac6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gallerySend = material.IconData(0xeac6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery_Wide icon
   static const material.IconData Gallery_Wide = material.IconData(0xeac7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData galleryWide = material.IconData(0xeac7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gallery icon
   static const material.IconData Gallery = material.IconData(0xeac8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gallery = material.IconData(0xeac8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gameboy icon
   static const material.IconData Gameboy = material.IconData(0xeac9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gameboy = material.IconData(0xeac9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gamepad_Charge icon
   static const material.IconData Gamepad_Charge = material.IconData(0xeaca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gamepadCharge = material.IconData(0xeaca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gamepad_Minimalistic icon
   static const material.IconData Gamepad_Minimalistic = material.IconData(0xeacb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gamepadMinimalistic = material.IconData(0xeacb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gamepad_No_Charge icon
   static const material.IconData Gamepad_No_Charge_ = material.IconData(0xeacc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gamepadNoCharge = material.IconData(0xeacc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gamepad_Old icon
   static const material.IconData Gamepad_Old = material.IconData(0xeacd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gamepadOld = material.IconData(0xeacd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gamepad icon
   static const material.IconData Gamepad = material.IconData(0xeace, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gamepad = material.IconData(0xeace, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Garage icon
   static const material.IconData Garage = material.IconData(0xeacf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData garage = material.IconData(0xeacf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gas_Station icon
   static const material.IconData Gas_Station = material.IconData(0xead0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gasStation = material.IconData(0xead0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Ghost_Smile icon
   static const material.IconData Ghost_Smile = material.IconData(0xead1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData ghostSmile = material.IconData(0xead1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Ghost icon
   static const material.IconData Ghost = material.IconData(0xead2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData ghost = material.IconData(0xead2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Gift icon
   static const material.IconData Gift = material.IconData(0xead3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gift = material.IconData(0xead3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Glasses icon
   static const material.IconData Glasses = material.IconData(0xead4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData glasses = material.IconData(0xead4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Global icon
   static const material.IconData Global = material.IconData(0xead5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData global = material.IconData(0xead5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Globus icon
   static const material.IconData Globus = material.IconData(0xead6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData globus = material.IconData(0xead6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Golf icon
   static const material.IconData Golf = material.IconData(0xead7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData golf = material.IconData(0xead7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// GPS icon
   static const material.IconData GPS = material.IconData(0xead8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData gps = material.IconData(0xead8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph_Down_New icon
   static const material.IconData Graph_Down_New = material.IconData(0xead9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graphDownNew = material.IconData(0xead9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph_Down icon
   static const material.IconData Graph_Down = material.IconData(0xeada, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graphDown = material.IconData(0xeada, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph_New_Up icon
   static const material.IconData Graph_New_Up = material.IconData(0xeadb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graphNewUp = material.IconData(0xeadb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph_New icon
   static const material.IconData Graph_New = material.IconData(0xeadc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graphNew = material.IconData(0xeadc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph_Up icon
   static const material.IconData Graph_Up = material.IconData(0xeadd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graphUp = material.IconData(0xeadd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Graph icon
   static const material.IconData Graph = material.IconData(0xeade, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData graph = material.IconData(0xeade, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hamburger_Menu icon
   static const material.IconData Hamburger_Menu = material.IconData(0xeadf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hamburgerMenu = material.IconData(0xeadf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hanger_2 icon
   static const material.IconData Hanger_2 = material.IconData(0xeae0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hanger2 = material.IconData(0xeae0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hanger icon
   static const material.IconData Hanger = material.IconData(0xeae1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hanger = material.IconData(0xeae1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hashtag_Chat icon
   static const material.IconData Hashtag_Chat = material.IconData(0xeae2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hashtagChat = material.IconData(0xeae2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hashtag_Circle icon
   static const material.IconData Hashtag_Circle = material.IconData(0xeae3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hashtagCircle = material.IconData(0xeae3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hashtag_Square icon
   static const material.IconData Hashtag_Square = material.IconData(0xeae4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hashtagSquare = material.IconData(0xeae4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hashtag icon
   static const material.IconData Hashtag = material.IconData(0xeae5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hashtag = material.IconData(0xeae5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Headphones_Round_Sound icon
   static const material.IconData Headphones_Round_Sound = material.IconData(0xeae6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData headphonesRoundSound = material.IconData(0xeae6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Headphones_Round icon
   static const material.IconData Headphones_Round = material.IconData(0xeae7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData headphonesRound = material.IconData(0xeae7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Headphones_Square_Sound icon
   static const material.IconData Headphones_Square_Sound = material.IconData(0xeae8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData headphonesSquareSound = material.IconData(0xeae8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Headphones_Square icon
   static const material.IconData Headphones_Square = material.IconData(0xeae9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData headphonesSquare = material.IconData(0xeae9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Health icon
   static const material.IconData Health = material.IconData(0xeaea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData health = material.IconData(0xeaea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_ icon
   static const material.IconData Heart_ = material.IconData(0xeaeb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heart = material.IconData(0xeaeb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Angle icon
   static const material.IconData Heart_Angle = material.IconData(0xeaec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartAngle = material.IconData(0xeaec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Broken icon
   static const material.IconData Heart_Broken = material.IconData(0xeaed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartBroken = material.IconData(0xeaed, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Lock icon
   static const material.IconData Heart_Lock = material.IconData(0xeaee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartLock = material.IconData(0xeaee, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Pulse_2 icon
   static const material.IconData Heart_Pulse_2 = material.IconData(0xeaef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartPulse2 = material.IconData(0xeaef, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Pulse icon
   static const material.IconData Heart_Pulse = material.IconData(0xeaf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartPulse = material.IconData(0xeaf0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Shine icon
   static const material.IconData Heart_Shine = material.IconData(0xeaf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartShine = material.IconData(0xeaf1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Heart_Unlock icon
   static const material.IconData Heart_Unlock = material.IconData(0xeaf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData heartUnlock = material.IconData(0xeaf2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hearts icon
   static const material.IconData Hearts = material.IconData(0xeaf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hearts = material.IconData(0xeaf3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Help icon
   static const material.IconData Help = material.IconData(0xeaf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData help = material.IconData(0xeaf4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// High_Definition icon
   static const material.IconData High_Definition = material.IconData(0xeaf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData highDefinition = material.IconData(0xeaf5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// High_Quality icon
   static const material.IconData High_Quality = material.IconData(0xeaf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData highQuality = material.IconData(0xeaf6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hiking_Minimalistic icon
   static const material.IconData Hiking_Minimalistic = material.IconData(0xeaf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hikingMinimalistic = material.IconData(0xeaf7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hiking_Round icon
   static const material.IconData Hiking_Round = material.IconData(0xeaf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hikingRound = material.IconData(0xeaf8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hiking icon
   static const material.IconData Hiking = material.IconData(0xeaf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hiking = material.IconData(0xeaf9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// History_2 icon
   static const material.IconData History_2 = material.IconData(0xeafa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData history2 = material.IconData(0xeafa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// History_3 icon
   static const material.IconData History_3 = material.IconData(0xeafb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData history3 = material.IconData(0xeafb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// History icon
   static const material.IconData History = material.IconData(0xeafc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData history = material.IconData(0xeafc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_ icon
   static const material.IconData Home_ = material.IconData(0xeafd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_ = material.IconData(0xeafd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_2 icon
   static const material.IconData Home_2 = material.IconData(0xeafe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home2 = material.IconData(0xeafe, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Add_Angle icon
   static const material.IconData Home_Add_Angle = material.IconData(0xeaff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_add_angle = material.IconData(0xeaff, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Add icon
   static const material.IconData Home_Add = material.IconData(0xeb00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_add = material.IconData(0xeb00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Angle_2 icon
   static const material.IconData Home_Angle_2 = material.IconData(0xeb01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_angle_2 = material.IconData(0xeb01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Angle icon
   static const material.IconData Home_Angle = material.IconData(0xeb02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_angle = material.IconData(0xeb02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Smile_Angle icon
   static const material.IconData Home_Smile_Angle = material.IconData(0xeb03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_smile_angle = material.IconData(0xeb03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_Smile icon
   static const material.IconData Home_Smile = material.IconData(0xeb04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_smile = material.IconData(0xeb04, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_WiFi_Angle icon
   static const material.IconData Home_WiFi_Angle = material.IconData(0xeb05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_wifi_angle = material.IconData(0xeb05, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home_WiFi icon
   static const material.IconData Home_WiFi = material.IconData(0xeb06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home_wifi = material.IconData(0xeb06, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Home icon
   static const material.IconData Home = material.IconData(0xeb07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData home = material.IconData(0xeb07, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hospital icon
   static const material.IconData Hospital = material.IconData(0xeb08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hospital = material.IconData(0xeb08, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hourglass_Line icon
   static const material.IconData Hourglass_Line = material.IconData(0xeb09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hourglass_line = material.IconData(0xeb09, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Hourglass icon
   static const material.IconData Hourglass = material.IconData(0xeb0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData hourglass = material.IconData(0xeb0a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Import icon
   static const material.IconData Import = material.IconData(0xeb0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData import = material.IconData(0xeb0b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Inbox_Archive icon
   static const material.IconData Inbox_Archive = material.IconData(0xeb0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData inbox_archive = material.IconData(0xeb0c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Inbox_In icon
   static const material.IconData Inbox_In = material.IconData(0xeb0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData inbox_in = material.IconData(0xeb0d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Inbox_Line icon
   static const material.IconData Inbox_Line = material.IconData(0xeb0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData inbox_line = material.IconData(0xeb0e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Inbox_Out icon
   static const material.IconData Inbox_Out = material.IconData(0xeb0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData inbox_out = material.IconData(0xeb0f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Inbox_Unread icon
   static const material.IconData Inbox_Unread = material.IconData(0xeb10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  static const material.IconData inbox_unread = material.IconData(0xeb10, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+
+
   static const material.IconData Inbox = material.IconData(0xeb11, fontFamily: _fontFamily, fontPackage: _fontPackage);
   static const material.IconData Incognito_ = material.IconData(0xeb12, fontFamily: _fontFamily, fontPackage: _fontPackage);
   static const material.IconData Incoming_Call_ = material.IconData(0xeb13, fontFamily: _fontFamily, fontPackage: _fontPackage);
